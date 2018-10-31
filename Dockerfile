@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM frolvlad/alpine-glibc:latest
 
 ENV VERSION=1.0.47
 ENV BUILD_DATE=20181016015113
